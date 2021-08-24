@@ -4,4 +4,4 @@ channels:
 dependencies:
   - numpy
   - gensim
-  -matplotlib
+  - matplotlib
