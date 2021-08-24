@@ -6,4 +6,4 @@ dependencies:
   - gensim
   - matplotlib
   - nltk
-  - sklearn
+  - scikit-learn
