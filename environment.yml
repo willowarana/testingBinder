@@ -7,3 +7,4 @@ dependencies:
   - matplotlib
   - nltk
   - scikit-learn
+  - python-Levenshtein
