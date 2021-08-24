@@ -8,3 +8,4 @@ dependencies:
   - nltk
   - scikit-learn
   - python-Levenshtein
+  - nltk_data
